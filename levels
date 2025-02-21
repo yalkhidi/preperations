@@ -1,0 +1,80 @@
+12
+19
+15
+10
+
+
+9 rot13
+11 ispowerof2
+15 tabmult
+6 split
+
+2
+12
+4
+1
+
+
+Level 1
+first word
+//fizzbuzz//
+ft_putstr
+strcpy
+strlen
+swap
+repeat alpha
+rev print
+//rot13//
+rotone
+search
+ulstr
+
+Level 2
+alpha mirror
+camel to snale
+do op
+atoi
+strcmp
+strcspn
+strdup
+strpbrk
+strrev
+inter
+//ispowerof2 //
+last_word
+//max//
+print bits
+reverse bits
+snake to camel
+swap bits
+union
+wdmatch
+
+Level 3
+addprimesum
+epurstr
+expandstr
+//atoibase//
+listsize
+range
+rrange
+hidenp
+lcm
+paramsum
+pgcd
+print hex
+rstr
+str
+//tabmult//
+
+Level 4
+//floodfill//
+fprime
+itoa
+listforeach
+listremoveif
+//split//
+revwstr
+rostring
+sortinttab
+sortlist
